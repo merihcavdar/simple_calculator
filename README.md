@@ -1,16 +1,11 @@
-# simple_calculator
+# Simple Calculator
 
-A new Flutter project.
+a calculator app in Flutter for basic operations
 
-## Getting Started
+## screenshot
 
-This project is a starting point for a Flutter application.
+![simple_calculator](https://github.com/merihcavdar/simple_calculator/assets/84540989/e9f54d68-72b0-4de2-9ae6-53140b822b79)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- layout, ui
+- logic behind
